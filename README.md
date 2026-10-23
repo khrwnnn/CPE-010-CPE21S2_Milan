@@ -9,8 +9,8 @@
 ## CILO
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
-## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+## Prelim
+* Prelim: (https://github.com/khrwnnn/CPE-010-CPE21S2_Milan/tree/0203f9d1ea2d706c525ee727d28e5529bc6575dd/Prelim))
 
 ## Acknowledgments
 ...
