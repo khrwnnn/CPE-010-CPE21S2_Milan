@@ -1,10 +1,10 @@
 ## CPE 010 - Data Structures and Algorithms A.Y. 2026 - 2027
 
 ## Kherwin Emmanuel D. Milan
-...
+
 
 ## Objectives
-...
+
 
 ## CILO
 draft
