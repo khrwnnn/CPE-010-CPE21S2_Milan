@@ -1,13 +1,12 @@
-## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
+## CPE 010 - Data Structures and Algorithms A.Y. 2026 - 2027
 
-## Building
+## Kherwin Emmanuel D. Milan
 ...
 
-## Troubleshooting
+## Objectives
 ...
 
-## Release Notes
+## CILO
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
