@@ -19,7 +19,7 @@ Technological Institute of the Philippines, Quezon City
 
 ### Objectives
 
-*Official course objectives have not been provided yet.*
+*Draft.*
 
 </details>
 
@@ -28,7 +28,7 @@ Technological Institute of the Philippines, Quezon City
 
 ### Course Intended Learning Outcomes
 
-*Official CILO statements have not been provided yet.*
+*Draft.*
 
 </details>
 
