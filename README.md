@@ -8,7 +8,7 @@
 
 CPE21S2
 
-Technological Institute of the Philippines, Quezon City
+Technological Institute of the Philippines - Quezon City
 
 </div>
 
