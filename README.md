@@ -13,8 +13,6 @@ Technological Institute of the Philippines, Quezon City
 </div>
 
 ---
-
-
 <details>
 <summary><strong>OBJECTIVES</strong></summary>
 
@@ -39,12 +37,10 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ## Course Work Directory
 
-
 <details>
 <summary><strong>PRELIM</strong></summary>
 
-<details>
-<summary><strong>Hands-on Activities</strong></summary>
+#### Hands-on Activities
 
 - [Hands-on Activity 1.1: Basic C++ Programming](./Prelim/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming)
   - [PDF submission](./Prelim/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming/CPE010_HOA1.1_Milan.pdf)
@@ -64,10 +60,7 @@ The course aims to provide an understanding of analyzing algorithms and their co
 - [Hands-on Activity 5.1: Queues](./Prelim/Hands-on%20Activity%205.1%20Queues)
   - [Progress Report.pdf](./Prelim/Hands-on%20Activity%205.1%20Queues/Progress%20Report.pdf)
 
-</details>
-
-<details>
-<summary><strong>Seatwork</strong></summary>
+#### Seatwork
 
 - [Seatwork 1.1: Algorithm, Flowchart, Pseudocode](./Prelim/Seatwork%201.1%20Algorithm%2C%20Flowchart%2C%20Pseudocode)
   - [Seatwork.pdf](./Prelim/Seatwork%201.1%20Algorithm%2C%20Flowchart%2C%20Pseudocode/Seatwork.pdf)
@@ -85,10 +78,7 @@ The course aims to provide an understanding of analyzing algorithms and their co
   - [PDF submission](./Prelim/Seatwork%204.1%20Array-Based%20vs.%20STL%20Stack%20Implementations/Milan_Seatwork4_1.pdf)
   - [Milan_Seatwork4_1.cpp](./Prelim/Seatwork%204.1%20Array-Based%20vs.%20STL%20Stack%20Implementations/Milan_Seatwork4_1.cpp)
 
-</details>
-
-<details>
-<summary><strong>Laboratory Exam</strong></summary>
+#### Laboratory Exam
 
 - [Prelim Laboratory Exam Set D](./Prelim/Prelim%20Laboratory%20Exam%20Set%20D)
   - [PDF submission](./Prelim/Prelim%20Laboratory%20Exam%20Set%20D/Prelim%20Laboratory%20Exam%20Set%20D%20-1.pdf)
@@ -98,21 +88,15 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 </details>
 
-</details>
-
 <details>
 <summary><strong>MIDTERMS</strong></summary>
 
-<details>
-<summary><strong>Assignments</strong></summary>
+#### Assignments
 
 - [Assignment 6.1: Linear and Binary Search](./Midterms/Assignment%206.1%20Linear%20and%20Binary%20Search)
   - [PDF submission](./Midterms/Assignment%206.1%20Linear%20and%20Binary%20Search/Assignment%206.1%20Linear%20and%20Binary%20Search.pdf)
 
-</details>
-
-<details>
-<summary><strong>Hands-on Activities</strong></summary>
+#### Hands-on Activities
 
 - [Hands-on Activity 7.1: Sorting Algorithms Pt1](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1)
   - [PDF submission](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1.pdf)
@@ -120,10 +104,7 @@ The course aims to provide an understanding of analyzing algorithms and their co
   - [sortingAlgo.h](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/sortingAlgo.h)
   - [vote.cpp](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/vote.cpp)
 
-</details>
-
-<details>
-<summary><strong>Seatwork</strong></summary>
+#### Seatwork
 
 - [Seatwork 7.1: Using Sorting Algorithms](./Midterms/Seatwork%207.1%20Using%20Sorting%20Algorithms)
   - [Group 6 Seatwork 7.1.pdf](./Midterms/Seatwork%207.1%20Using%20Sorting%20Algorithms/Group%206%20Seatwork%207.1.pdf)
@@ -132,12 +113,9 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 </details>
 
-</details>
-
 <details>
 <summary><strong>FINALS</strong></summary>
 
-No activities uploaded yet.
 
 </details>
 
