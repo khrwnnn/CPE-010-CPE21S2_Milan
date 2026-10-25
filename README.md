@@ -35,7 +35,7 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ---
 
-## Course Work Directory
+## Course Work 
 
 <details>
 <summary><strong>PRELIM</strong></summary>
