@@ -126,5 +126,5 @@ Technological Institute of the Philippines, Quezon City
 
 ## FINALS
 
-No activities uploaded yet.
+No activities uploaded yet
 
