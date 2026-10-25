@@ -10,15 +10,15 @@ CPE21S2
 
 Technological Institute of the Philippines, Quezon City
 
-
 </div>
 
 ---
 
+
 <details>
 <summary><strong>OBJECTIVES</strong></summary>
 
-### Objectives
+### Course Objectives
 
 *Draft.*
 
@@ -29,7 +29,7 @@ Technological Institute of the Philippines, Quezon City
 
 ### Course Intended Learning Outcomes
 
-*Draft.*
+*ODraft.*
 
 </details>
 
@@ -37,23 +37,12 @@ Technological Institute of the Philippines, Quezon City
 
 ## Course Work Directory
 
-### Course Materials
 
-- [Prelim](./Prelim)
-  - [Hands-on Activities](#prelim-hands-on-activities)
-  - [Seatwork](#prelim-seatwork)
-  - [Laboratory Exam](#prelim-laboratory-exam)
-- [Midterms](./Midterms)
-  - [Assignment](#midterms-assignment)
-  - [Hands-on Activities](#midterms-hands-on-activities)
-  - [Seatwork](#midterms-seatwork)
-- Finals: 
+<details>
+<summary><strong>PRELIM</strong></summary>
 
----
-
-## PRELIM
-
-### Prelim Hands-on Activities
+<details>
+<summary><strong>Hands-on Activities</strong></summary>
 
 - [Hands-on Activity 1.1: Basic C++ Programming](./Prelim/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming)
   - [PDF submission](./Prelim/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming/CPE010_HOA1.1_Milan.pdf)
@@ -73,7 +62,10 @@ Technological Institute of the Philippines, Quezon City
 - [Hands-on Activity 5.1: Queues](./Prelim/Hands-on%20Activity%205.1%20Queues)
   - [Progress Report.pdf](./Prelim/Hands-on%20Activity%205.1%20Queues/Progress%20Report.pdf)
 
-### Prelim Seatwork
+</details>
+
+<details>
+<summary><strong>Seatwork</strong></summary>
 
 - [Seatwork 1.1: Algorithm, Flowchart, Pseudocode](./Prelim/Seatwork%201.1%20Algorithm%2C%20Flowchart%2C%20Pseudocode)
   - [Seatwork.pdf](./Prelim/Seatwork%201.1%20Algorithm%2C%20Flowchart%2C%20Pseudocode/Seatwork.pdf)
@@ -91,7 +83,10 @@ Technological Institute of the Philippines, Quezon City
   - [PDF submission](./Prelim/Seatwork%204.1%20Array-Based%20vs.%20STL%20Stack%20Implementations/Milan_Seatwork4_1.pdf)
   - [Milan_Seatwork4_1.cpp](./Prelim/Seatwork%204.1%20Array-Based%20vs.%20STL%20Stack%20Implementations/Milan_Seatwork4_1.cpp)
 
-### Prelim Laboratory Exam
+</details>
+
+<details>
+<summary><strong>Laboratory Exam</strong></summary>
 
 - [Prelim Laboratory Exam Set D](./Prelim/Prelim%20Laboratory%20Exam%20Set%20D)
   - [PDF submission](./Prelim/Prelim%20Laboratory%20Exam%20Set%20D/Prelim%20Laboratory%20Exam%20Set%20D%20-1.pdf)
@@ -99,16 +94,23 @@ Technological Institute of the Philippines, Quezon City
   - [queueArr.h](./Prelim/Prelim%20Laboratory%20Exam%20Set%20D/queueArr.h)
   - [singlell.h](./Prelim/Prelim%20Laboratory%20Exam%20Set%20D/singlell.h)
 
----
+</details>
 
-## MIDTERMS
+</details>
 
-### Midterms Assignment
+<details>
+<summary><strong>MIDTERMS</strong></summary>
+
+<details>
+<summary><strong>Assignments</strong></summary>
 
 - [Assignment 6.1: Linear and Binary Search](./Midterms/Assignment%206.1%20Linear%20and%20Binary%20Search)
   - [PDF submission](./Midterms/Assignment%206.1%20Linear%20and%20Binary%20Search/Assignment%206.1%20Linear%20and%20Binary%20Search.pdf)
 
-### Midterms Hands-on Activities
+</details>
+
+<details>
+<summary><strong>Hands-on Activities</strong></summary>
 
 - [Hands-on Activity 7.1: Sorting Algorithms Pt1](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1)
   - [PDF submission](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1.pdf)
@@ -116,16 +118,24 @@ Technological Institute of the Philippines, Quezon City
   - [sortingAlgo.h](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/sortingAlgo.h)
   - [vote.cpp](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/vote.cpp)
 
-### Midterms Seatwork
+</details>
+
+<details>
+<summary><strong>Seatwork</strong></summary>
 
 - [Seatwork 7.1: Using Sorting Algorithms](./Midterms/Seatwork%207.1%20Using%20Sorting%20Algorithms)
   - [Group 6 Seatwork 7.1.pdf](./Midterms/Seatwork%207.1%20Using%20Sorting%20Algorithms/Group%206%20Seatwork%207.1.pdf)
 - [Seatwork 7.2: Algorithm Analysis Best-Case and Worst-Case Time Complexity](./Midterms/Seatwork%207.2%20Algorithm%20Analysis%20Best-Case%20and%20Worst-Case%20Time%20Complexity)
   - [Seatwork 7.2.pdf](./Midterms/Seatwork%207.2%20Algorithm%20Analysis%20Best-Case%20and%20Worst-Case%20Time%20Complexity/Seatwork%207.2.pdf)
 
----
+</details>
 
-## FINALS
+</details>
 
-No activities uploaded yet
+<details>
+<summary><strong>FINALS</strong></summary>
+
+No activities uploaded yet.
+
+</details>
 
