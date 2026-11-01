@@ -35,7 +35,9 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ---
 
-## Course Work 
+## Course Work Directory
+
+### Course Materials
 
 <details>
 <summary><strong>PRELIM</strong></summary>
@@ -95,6 +97,8 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 - [Assignment 6.1: Linear and Binary Search](./Midterms/Assignment%206.1%20Linear%20and%20Binary%20Search)
   - [PDF submission](./Midterms/Assignment%206.1%20Linear%20and%20Binary%20Search/Assignment%206.1%20Linear%20and%20Binary%20Search.pdf)
+- [Assignment 9.1: Binary Search Tree](./Midterms/Assignment%209.1%20Binary%20Search%20Tree)
+  - [PDF submission](./Midterms/Assignment%209.1%20Binary%20Search%20Tree/CPE010_ASSIGNMENT9.1_Group6.pdf)
 
 #### Hands-on Activities
 
@@ -103,6 +107,12 @@ The course aims to provide an understanding of analyzing algorithms and their co
   - [main-2.cpp](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/main-2.cpp)
   - [sortingAlgo.h](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/sortingAlgo.h)
   - [vote.cpp](./Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/vote.cpp)
+- [Hands-on Activity 8.1: Sorting Algorithms Pt2](./Midterms/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2)
+  - [PDF submission](./Midterms/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2_Milan.pdf)
+  - [main-4.cpp](./Midterms/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2/main-4.cpp)
+  - [sortingAlgo-1.h](./Midterms/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2/sortingAlgo-1.h)
+- [Hands-on Activity 9.1: Tree ADT](./Midterms/Hands-on%20Activity%209.1%20Tree%20ADT)
+  - [Progress report](./Midterms/Hands-on%20Activity%209.1%20Tree%20ADT/Hands-on%20Activity%209.1%20Tree%20ADT%20_Progress.pdf)
 
 #### Seatwork
 
@@ -110,12 +120,50 @@ The course aims to provide an understanding of analyzing algorithms and their co
   - [Group 6 Seatwork 7.1.pdf](./Midterms/Seatwork%207.1%20Using%20Sorting%20Algorithms/Group%206%20Seatwork%207.1.pdf)
 - [Seatwork 7.2: Algorithm Analysis Best-Case and Worst-Case Time Complexity](./Midterms/Seatwork%207.2%20Algorithm%20Analysis%20Best-Case%20and%20Worst-Case%20Time%20Complexity)
   - [Seatwork 7.2.pdf](./Midterms/Seatwork%207.2%20Algorithm%20Analysis%20Best-Case%20and%20Worst-Case%20Time%20Complexity/Seatwork%207.2.pdf)
+- [Seatwork 8.1: Using Sorting Algorithms 2](./Midterms/Seatwork%208.1%20Using%20Sorting%20Algorithms%202)
+  - [PDF submission](./Midterms/Seatwork%208.1%20Using%20Sorting%20Algorithms%202/CPE010_SEATWORK8.1_GROUP6.pdf)
+- [Seatwork 9.1: Implementing Trees](./Midterms/Seatwork%209.1%20Implementing%20Trees)
+  - [PDF submission](./Midterms/Seatwork%209.1%20Implementing%20Trees/Seatwork%209.1%20Implementing%20Trees.pdf)
+  - [binaryTree.h](./Midterms/Seatwork%209.1%20Implementing%20Trees/binaryTree.h)
+  - [main-3.cpp](./Midterms/Seatwork%209.1%20Implementing%20Trees/main-3.cpp)
 
 </details>
 
 <details>
 <summary><strong>FINALS</strong></summary>
 
+#### Hands-on Activities
+
+- [Hands-on Activity 10.1: Graphs](./Finals/Hands-on%20Activity%2010.1%20Graphs)
+  - [PDF submission](./Finals/Hands-on%20Activity%2010.1%20Graphs/CPE010_HOA10p1_MilanKherwin.pdf)
+  - [CPE010_HOA10p1_Milan_sc1.cpp](./Finals/Hands-on%20Activity%2010.1%20Graphs/CPE010_HOA10p1_Milan_sc1.cpp)
+  - [CPE010_HOA10p1_Milan_sc2.cpp](./Finals/Hands-on%20Activity%2010.1%20Graphs/CPE010_HOA10p1_Milan_sc2.cpp)
+  - [CPE010_HOA10p1_Milan_sc3.cpp](./Finals/Hands-on%20Activity%2010.1%20Graphs/CPE010_HOA10p1_Milan_sc3.cpp)
+- [Hands-on Activity 11.1: Basic Algorithm Analysis](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis)
+  - [PDF submission](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/HOA11.pdf)
+  - [ILOB_MACASAET.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/ILOB_MACASAET.cpp)
+  - [ILOB_Milan.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/ILOB_Milan.cpp)
+  - [MORADILLOILOB.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/MORADILLOILOB.cpp)
+  - [MORADILLOSUP1.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/MORADILLOSUP1.cpp)
+  - [MORADILLOSUPP2.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/MORADILLOSUPP2.cpp)
+  - [Prob1_MACASAET.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/Prob1_MACASAET.cpp)
+  - [Prob2_MACASAET.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/Prob2_MACASAET.cpp)
+  - [Sup2_Milan.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/Sup2_Milan.cpp)
+  - [sup1_Milan.cpp](./Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/sup1_Milan.cpp)
+- [Hands-on Activity 12.1: Algorithmic Strategies](./Finals/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies)
+  - [PDF submission](./Finals/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies/HOA%2012%20%282%29.pdf)
+  - [Supplementary_HOA12.cpp](./Finals/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies/Supplementary_HOA12.cpp)
+- [Hands-on Activity 13.1: Parallel Algorithms and Multithreading](./Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading)
+  - [PDF submission](./Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/HOA%2013%20%281%29.pdf)
+  - [partb.cpp](./Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/partb.cpp)
+  - [partc.cpp](./Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/partc.cpp)
+- [Hands-on Activity 14.1: Algorithm Complexity](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity)
+  - [PDF submission](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/HOA14.pdf)
+  - [Suple.cpp](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/Suple.cpp)
+  - [nodes.h](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/nodes.h)
+  - [random.cpp](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/random.cpp)
+  - [searching.h](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/searching.h)
+  - [sortingAlgo.h](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/sortingAlgo.h)
 
 </details>
 
