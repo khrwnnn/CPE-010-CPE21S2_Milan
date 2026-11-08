@@ -165,5 +165,18 @@ The course aims to provide an understanding of analyzing algorithms and their co
   - [searching.h](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/searching.h)
   - [sortingAlgo.h](./Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/sortingAlgo.h)
 
+#### Final Project
+
+- [Final Project](./Finals/Final%20Project)
+  - [Project PDF](./Finals/Final%20Project/CPE%20010%20FINAL%20PROJECT%20GROUP%204.pdf)
+  - [main.cpp](./Finals/Final%20Project/main.cpp)
+  - [AssetInventory.h](./Finals/Final%20Project/AssetInventory.h)
+  - [BST.h](./Finals/Final%20Project/BST.h)
+  - [BorrowReturnHistory.h](./Finals/Final%20Project/BorrowReturnHistory.h)
+  - [LockerAssetSort.h](./Finals/Final%20Project/LockerAssetSort.h)
+  - [Login.h](./Finals/Final%20Project/Login.h)
+  - [Registration.h](./Finals/Final%20Project/Registration.h)
+  - [studentQueue.h](./Finals/Final%20Project/studentQueue.h)
+
 </details>
 
